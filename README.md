@@ -6,4 +6,4 @@ local script = [[
 ]]
 loadstring(game:HttpGet("https://raw.githubusercontent.com/i-melons/Scripts/main/Shitobfuscator.lua"))()
 ```
-⚠ WARNING THE OBFUSCATOR IS CRACKABLE ⚠
+⚠ WARNING THE OBFUSCATOR IS SUPER BAD AND 99% CRACKABLE ⚠
